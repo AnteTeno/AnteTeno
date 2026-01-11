@@ -15,11 +15,11 @@ I'm a 3rd-year Computer Science student at the University of Oulu, completing my
 🔨
 ### What I'm working on
 
-- Building [**YOPREP**](AnteTeno/yoprep): A Java Spring Boot REST API with web scraping and database integration
+- Building [**YOPREP**](yoprep): A Java Spring Boot REST API with web scraping and database integration
 - Practicing test-driven development and achieving high code coverage
 - Learning about cybersecurity, secure systems, and authentication patterns
 - Exploring defensive security and software testing methodologies
-- Learning about mobile computing, kotlin and jetpack compose [Coursework](AnteTeno/Mobile-Computing-Coursework)
+- Learning about mobile computing, kotlin and jetpack compose [Coursework](Mobile-Computing-Coursework)
 
 📫
 ### Get in touch
