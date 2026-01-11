@@ -1,8 +1,9 @@
 
-## Hi, I'm Ante 👋
+## Hello stranger 👋
 
-I'm a 3rd-year Computer Science student at the University of Oulu, completing my Bachelor's in Spring 2026 with a major in Cybersecurity and a minor in Applied Computing. I'm continuing to a Master's degree with a focus on cybersecurity. I enjoy building backend systems, testing software, and learning about secure systems.
+I'm Ánte, a young passionate computer science and engineering student @University of Oulu, currently in my 3rd year of Bachelor's studies with a major in cybersecurity and a minor in applied computing. I'm continuing to a Master's with a focus on cybersecurity.
 
+My main strengths are definitely backend development (Java, Python), testing, and cybersecurity. I also have some knowledge with mobile development and test pipelines.
 
 ### Technologies & Tools 🧰
 
@@ -24,7 +25,7 @@ I'm a 3rd-year Computer Science student at the University of Oulu, completing my
 
 - Building [**YOPREP**](https://github.com/AnteTeno/yo-prep): A Java Spring Boot REST API with web scraping and database integration
 - Practicing test-driven development and achieving high code coverage
-- Learning about cybersecurity, secure systems, and authentication patterns
+- Learning about cybersecurity through courses and TryHackMe
 - Exploring defensive security and software testing methodologies
 - Learning about mobile computing, kotlin and jetpack compose: [coursework](https://github.com/AnteTeno/Mobile-computing-Coursework)
 
