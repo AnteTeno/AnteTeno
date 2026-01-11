@@ -1,10 +1,10 @@
-# WhoIsAnteTenoranta
 
-## Hi, I'm Ante!
+## Hi, I'm Ante 👋
 
-I'm a 3rd-year Computer Science student at the University of Oulu, completing my Bachelor's in Summer 2026 and continuing to a Master's degree with a focus on **cybersecurity**. I enjoy building backend systems, testing software, and learning about secure systems.
+I'm a 3rd-year Computer Science student at the University of Oulu, completing my Bachelor's in Spring 2026 and continuing to a Master's degree with a focus on **cybersecurity**. I enjoy building backend systems, testing software, and learning about secure systems.
 
-### Technologies & Tools
+🧰
+### Technologies & Tools 
 
 **Languages:** Java, Python, SQL
 **Backend:** Spring Boot, FastAPI, REST APIs
@@ -12,13 +12,16 @@ I'm a 3rd-year Computer Science student at the University of Oulu, completing my
 **Testing:** JUnit5, TDD, JaCoCo
 **Tools:** Docker, Git, Maven, Linux
 
+🔨
 ### What I'm working on
 
-- Building **YO-Prep**: A Java Spring Boot REST API with web scraping and database integration
+- Building [**YOPREP**](AnteTeno/yoprep): A Java Spring Boot REST API with web scraping and database integration
 - Practicing test-driven development and achieving high code coverage
 - Learning about cybersecurity, secure systems, and authentication patterns
 - Exploring defensive security and software testing methodologies
+- Learning about mobile computing, kotlin and jetpack compose [Coursework](AnteTeno/Mobile-Computing-Coursework)
 
+📫
 ### Get in touch
 
 - Portfolio: [anteteno.netlify.app](https://anteteno.netlify.app)
