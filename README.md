@@ -16,7 +16,7 @@ My main strengths are definitely backend development (Java, Python), testing, an
 
 **Technologies & Tools I'm learing:**
 
-![Technologies & Tools I'm learning](https://skillicons.dev/icons?i=kotlin,arch,kali,docker,gradle,androidstudio,unity)
+![Technologies & Tools I'm learning](https://skillicons.dev/icons?i=kotlin,arch,kali,docker,gradle,androidstudio)
 
 
 ### What I'm working on 🔨
