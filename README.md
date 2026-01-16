@@ -21,7 +21,7 @@ My main strengths are definitely backend development (Java, Python), testing, an
 
 ### What I'm working on 🔨
 
-- Building [**YOPREP**](https://github.com/AnteTeno/yo-prep): A Java Spring Boot REST API with web scraping and database integration
+- Building [**YOPREP**](https://github.com/AnteTeno/yo-prep): A Java Spring Boot REST API with user authentication and database integration
 - Practicing test-driven development and achieving high code coverage
 - Learning about cybersecurity through courses (Privacy and Social Engineering, Introduction to Cybersecurity testing, Information Security...) and [TryHackMe](https://tryhackme.com/p/AnteTeno)
 - Exploring defensive security and software testing methodologies
