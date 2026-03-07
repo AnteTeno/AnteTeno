@@ -12,7 +12,7 @@ My main strengths are definitely backend development (Java, Python), testing, an
 
 **Technologies & Tools I know:**
 
-![Technologies & Tools I know](https://skillicons.dev/icons?i=java,python,spring,git,github,linux,maven,postgres,fastapi,sqlite,vscode,bash,idea)
+![Technologies & Tools I know](https://skillicons.dev/icons?i=java,python,spring,git,github,linux,maven,postgres,fastapi,sqlite,vscode,bash,idea,cpp)
 
 **Technologies & Tools I'm learing:**
 
