@@ -37,4 +37,4 @@ My main strengths are definitely backend development (Java, Python), testing, an
 
 ---
 
-**Currently seeking for a entry level roles starting Summer 2026 (part-time available from Spring 2026)** 
+**Currently a test automation trainee** 
